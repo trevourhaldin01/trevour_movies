@@ -38,7 +38,7 @@ export default function Navbar() {
                 </ul>
                 </div>
                 <div className="ms-auto">
-                    <a href="https://github.com/trevourhaldin01/trevour_movies_app" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/trevourhaldin01/trevour_movies" target="_blank" rel="noopener noreferrer">
                         <i className="bi bi-github fw-bold main-color fs-2"></i>
                     </a>
                     
