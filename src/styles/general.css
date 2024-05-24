@@ -1,0 +1,52 @@
+.video-responsive {
+    overflow: hidden;
+    padding-top: 56.25%; /* 16:9 aspect ratio */
+    position: relative;
+  }
+  
+  .video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+  .main-color {
+    color: #D3316B;
+  }
+
+  .main-color-bg{
+    background-color: #D3316B;
+    
+  }
+
+  .main-btn {
+    background-color: inherit;
+    border-radius: 5px;
+    padding: 0.5rem;
+    color: #D3316B;
+  }
+
+  .main-btn:hover{
+    
+    color: #fff;
+    background-color: #D3316B;
+    
+  }
+
+  .input {
+    width: 100%;
+    background-color: inherit;
+    caret-color: #D3316B;
+    color: #D3316B;
+    border-color: #D3316B;
+  }
+
+  .input::placeholder {
+    color: #D3316B; /* Change this to your desired placeholder text color */
+  }
+
+#content {
+  flex: 1;
+}

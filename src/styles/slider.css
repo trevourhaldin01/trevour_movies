@@ -1,0 +1,11 @@
+/* Add space between rows */
+.slick-list {
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+.hover div:hover {
+    cursor: pointer;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(35,35,87,1) 100%, rgba(29,12,41,0.9612219887955182) 100%);
+}
+  
